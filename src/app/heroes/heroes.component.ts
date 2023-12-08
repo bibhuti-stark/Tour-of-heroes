@@ -14,7 +14,7 @@ import { FormsModule } from '@angular/forms';
     NgIf,
     UpperCasePipe
   ],
-})
+}) 
 export class HeroesComponent {
   
   heroes = HEROES;
